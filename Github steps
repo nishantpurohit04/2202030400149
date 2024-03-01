@@ -1,0 +1,20 @@
+1. *Sign in to GitHub:* Go to github.com and sign in to your GitHub account. If you don't have an account, you'll need to sign up first.
+
+2. *Create a new repository:* Once signed in, click on the "+" sign in the top-right corner of the page and select "New repository". Alternatively, you can go to your profile, click on the "Repositories" tab, and then click on the green "New" button.
+
+3. *Fill in the repository details:* Give your repository a name, choose whether it will be public or private, add a description if needed, and select any other settings you want for your repository. Then, click on the "Create repository" button.
+
+4. *Clone the repository:* After creating the repository, you'll be taken to its main page. Click on the green "Code" button and select "Download ZIP". This will download a ZIP file of your empty repository to your local machine.
+
+5. *Extract the ZIP file:* Once the ZIP file is downloaded, extract its contents to a directory on your local machine.
+
+6. *Add your files:* Copy the files you want to upload into the directory where you extracted the contents of the ZIP file.
+
+7. *Zip the files:* Select all the files you want to upload, right-click, and select "Compress" or "Zip". This will create a new ZIP file containing your files.
+
+8. *Upload the ZIP file:* Go back to your repository's main page on GitHub. Click on the "Add file" dropdown button and select "Upload files". Choose the ZIP file you created and click "Open".
+
+9. *Commit changes:* Scroll down to the bottom of the page, add a commit message (e.g., "Initial commit"), and click on the green "Commit changes" button.
+
+10. *Verify the upload:* Once the upload is complete, you should see your files listed on your repository's main page on GitHub.
+
